@@ -55,4 +55,5 @@ def question6():
             # res_list.append(int(x))
     # print(res_list)
 
-question3()
+if __name__=="__main__":
+    question3()
